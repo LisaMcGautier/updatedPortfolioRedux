@@ -1,6 +1,12 @@
 # Updated Portfolio REDUX
 No license selected
 
+## Screenshots
+
+![Screenshot (120)](https://user-images.githubusercontent.com/62854999/97098184-7ae5b000-1650-11eb-9c3e-e3da1c8d6bb6.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/62854999/97098186-7b7e4680-1650-11eb-9ba5-338e6103d144.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/62854999/97098187-7c16dd00-1650-11eb-9800-4d3d4f0fa614.png)
+
 ## Description
 
 Now that we've built a full-stack web application and have another project to share, we are updating our portfolio pages and other materials to build toward being employer competitive.
